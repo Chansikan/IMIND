@@ -1,2 +1,1 @@
-# IMIND
-Ilsan hospital Machine Intelligence with National health big Data
+# Ilsan Hospital Machine Intelligence with National health Big Data
