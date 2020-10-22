@@ -1,14 +1,14 @@
 **I-MIND (Ilsan hospital Machine Intelligence research with National health Data)** is a reserch project by a team of researchers in the research institute of National Health Insurance Service Ilsan Hospital, South Korea.
 
-
 ## Table of contents
 - [Members](#Members)
 - [Operational definitions](#Operational)
 - [Published papers](#Papers)
+- [Related websites](#Related)
 
 # Memebers
 
-<img src="images/chansikan2020.jpg" width="80" height="100" class="inline"/>
+<img src="images/chansikan2020.jpg" width="1600" height="200" class="inline"/>
 
 ### Chansik An, MD, PhD
 
@@ -28,9 +28,11 @@ Email: chansikan@nhimc.or.kr
 
 2. 
 
-
+# Related websites
 <a href="https://www.nhimc.or.kr/eng/index.do">
-         <img src="images/NHIMC_logo.png" alt="NHIMC"  width="200" height="100" class="inline"/>
+         <img src="images/NHIMC_logo2.png" alt="NHIMC"  width="100" height="50" class="inline"/>
       </a>
-
+<a href="https://nhis.or.kr/static/html/wbd/g/a/wbdga0101.html">
+         <img src="images/NHIS_logo.png" alt="NHIS"  width="200" height="500" class="inline"/>
+      </a>
 
