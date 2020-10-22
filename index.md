@@ -8,7 +8,7 @@
 
 # Memebers
 
-<img src="images/chansikan2020.jpg" width="1600" height="200" class="inline"/>
+<img src="images/chansikan2020.jpg" width="160" height="200" class="inline"/>
 
 ### Chansik An, MD, PhD
 
@@ -30,9 +30,9 @@ Email: chansikan@nhimc.or.kr
 
 # Related websites
 <a href="https://www.nhimc.or.kr/eng/index.do">
-         <img src="images/NHIMC_logo2.png" alt="NHIMC"  width="100" height="50" class="inline"/>
+         <img src="images/NHIMC_logo2.png" alt="NHIMC"  width="200" height="100" class="inline"/>
       </a>
 <a href="https://nhis.or.kr/static/html/wbd/g/a/wbdga0101.html">
-         <img src="images/NHIS_logo.png" alt="NHIS"  width="200" height="500" class="inline"/>
+         <img src="images/NHIS_logo.png" alt="NHIS"  width="40" height="100" class="inline"/>
       </a>
 
